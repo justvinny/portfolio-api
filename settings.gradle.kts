@@ -1,0 +1,1 @@
+rootProject.name = "com.vinsonb.api.vinson-portfolio-api"

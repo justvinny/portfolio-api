@@ -6,6 +6,7 @@ import io.ktor.server.testing.*
 import kotlin.test.*
 import io.ktor.http.*
 import com.vinsonb.api.plugins.*
+import com.vinsonb.api.plugins.configureRouting
 
 class ApplicationTest {
     @Test
